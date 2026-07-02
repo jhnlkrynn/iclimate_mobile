@@ -1,0 +1,29 @@
+λ  WARN  Route "./iclimate.tsx" is missing the required default export. Ensure a React component is exported as default. 
+  console.warn (C:\Users\Luke\OneDrive\Desktop\reactnative_reynon\iclimate_mobile\node_modules\expo\node_modules\@expo\cli\src\start\server\serverLogLikeMetro.ts:161:21)
+  getDirectoryTree (C:\Users\Luke\OneDrive\Desktop\reactnative_reynon\iclimate_mobile\node_modules\expo-router\build\getRoutesCore.js:311:29)
+  getRoutes (C:\Users\Luke\OneDrive\Desktop\reactnative_reynon\iclimate_mobile\node_modules\expo-router\build\getRoutesCore.js:23:27)
+  getRoutes (C:\Users\Luke\OneDrive\Desktop\reactnative_reynon\iclimate_mobile\node_modules\expo-router\build\getRoutes.js:20:41)
+  useStore (C:\Users\Luke\OneDrive\Desktop\reactnative_reynon\iclimate_mobile\node_modules\expo-router\build\global-state\router-store.js:141:48)
+  Component (C:\Users\Luke\OneDrive\Desktop\reactnative_reynon\iclimate_mobile\node_modules\expo-router\build\ExpoRoot.js:128:46)
+  Object.callComponentInDEV [as react-stack-bottom-frame] (C:\Users\Luke\OneDrive\Desktop\reactnative_reynon\iclimate_mobile\node_modules\react-dom\cjs\react-dom-server-legacy.node.development.js:8970:18)
+  renderWithHooks (C:\Users\Luke\OneDrive\Desktop\reactnative_reynon\iclimate_mobile\node_modules\react-dom\cjs\react-dom-server-legacy.node.development.js:4699:19)
+  run (C:\Users\Luke\OneDrive\Desktop\reactnative_reynon\iclimate_mobile\node_modules\react-dom\cjs\react-dom-server-legacy.node.development.js:5134:23)
+  retryNode (C:\Users\Luke\OneDrive\Desktop\reactnative_reynon\iclimate_mobile\node_modules\react-dom\cjs\react-dom-server-legacy.node.development.js:5899:31)
+Error: Cannot pipe to a closed or destroyed stream
+    at pipelineImpl (node:internal/streams/pipeline:264:15)
+    at node:stream/promises:31:5
+    at new Promise (<anonymous>)
+    at pipeline (node:stream/promises:20:10)
+    at respond (C:\Users\Luke\OneDrive\Desktop\reactnative_reynon\iclimate_mobile\node_modules\expo-server\src\vendor\http.ts:138:19)
+    at C:\Users\Luke\OneDrive\Desktop\reactnative_reynon\iclimate_mobile\node_modules\expo-server\src\vendor\http.ts:68:13
+λ  WARN  Route "./iclimate.tsx" is missing the required default export. Ensure a React component is exported as default. 
+  console.warn (C:\Users\Luke\OneDrive\Desktop\reactnative_reynon\iclimate_mobile\node_modules\expo\node_modules\@expo\cli\src\start\server\serverLogLikeMetro.ts:161:21)
+  getDirectoryTree (C:\Users\Luke\OneDrive\Desktop\reactnative_reynon\iclimate_mobile\node_modules\expo-router\build\getRoutesCore.js:311:29)
+  getRoutes (C:\Users\Luke\OneDrive\Desktop\reactnative_reynon\iclimate_mobile\node_modules\expo-router\build\getRoutesCore.js:23:27)
+  getRoutes (C:\Users\Luke\OneDrive\Desktop\reactnative_reynon\iclimate_mobile\node_modules\expo-router\build\getRoutes.js:20:41)
+  useStore (C:\Users\Luke\OneDrive\Desktop\reactnative_reynon\iclimate_mobile\node_modules\expo-router\build\global-state\router-store.js:141:48)
+  Component (C:\Users\Luke\OneDrive\Desktop\reactnative_reynon\iclimate_mobile\node_modules\expo-router\build\ExpoRoot.js:128:46)
+  Object.callComponentInDEV [as react-stack-bottom-frame] (C:\Users\Luke\OneDrive\Desktop\reactnative_reynon\iclimate_mobile\node_modules\react-dom\cjs\react-dom-server-legacy.node.development.js:8970:18)
+  renderWithHooks (C:\Users\Luke\OneDrive\Desktop\reactnative_reynon\iclimate_mobile\node_modules\react-dom\cjs\react-dom-server-legacy.node.development.js:4699:19)
+  run (C:\Users\Luke\OneDrive\Desktop\reactnative_reynon\iclimate_mobile\node_modules\react-dom\cjs\react-dom-server-legacy.node.development.js:5134:23)
+  retryNode (C:\Users\Luke\OneDrive\Desktop\reactnative_reynon\iclimate_mobile\node_modules\react-dom\cjs\react-dom-server-legacy.node.development.js:5899:31)

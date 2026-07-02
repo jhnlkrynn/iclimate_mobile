@@ -1,0 +1,25 @@
+Starting project at C:\Users\Luke\OneDrive\Desktop\reactnative_reynon\iclimate_mobile
+React Compiler enabled
+Metro is running in CI mode, reloads are disabled. Remove CI=true to enable watch mode.
+Starting Metro Bundler
+warning: Bundler cache is empty, rebuilding (this may take a minute)
+Waiting on http://localhost:8082
+Logs for your project will appear below.
+Web node_modules\expo-router\entry.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web node_modules\expo-router\entry.js ▓░░░░░░░░░░░░░░░  9.0% ( 3/10)
+λ node_modules\expo-router\node\render.js ▓░░░░░░░░░░░░░░░ 10.3% ( 16/110)
+Web node_modules\expo-router\entry.js ▓▓▓▓░░░░░░░░░░░░ 25.0% (10/20)
+λ node_modules\expo-router\node\render.js ▓▓▓▓░░░░░░░░░░░░ 28.3% (159/299)
+Web node_modules\expo-router\entry.js ▓▓▓▓░░░░░░░░░░░░ 26.5% ( 60/201)
+λ node_modules\expo-router\node\render.js ▓▓▓▓▓▓▓▓▓░░░░░░░ 56.4% (474/657)
+Web node_modules\expo-router\entry.js ▓▓▓▓▓▓░░░░░░░░░░ 40.2% (293/462)
+λ node_modules\expo-router\node\render.js ▓▓▓▓▓▓▓▓▓▓▓░░░░░ 70.0% (691/826)
+Web node_modules\expo-router\entry.js ▓▓▓▓▓▓▓▓▓▓░░░░░░ 68.3% (574/714)
+λ node_modules\expo-router\node\render.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 87.7% (876/958)
+Web node_modules\expo-router\entry.js ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 86.2% (871/966)
+λ node_modules\expo-router\node\render.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 93.2% (1033/1081)
+λ Bundled 22841ms node_modules\expo-router\node\render.js (1138 modules)
+Web Bundled 23441ms node_modules\expo-router\entry.js (1110 modules)
+Web node_modules\expo-router\entry.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+λ Bundled 64ms node_modules\expo-router\node\render.js (1 module)
+Web Bundled 562ms node_modules\expo-router\entry.js (1 module)
