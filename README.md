@@ -21,6 +21,9 @@ The homepage layout has been improved to provide a cleaner and more user-friendl
 
 ## Get started
 
+Repository managed by: John Luke D. Reynon BSIT BA - 3303
+
+1. Install dependencies
 # 1. Install Expo CLI globally (only once)
 
 npm install -g expo-cli
@@ -36,6 +39,8 @@ cd project-name
 # 4. Start the app (clear cache to avoid errors)
 
 npx expo start -c
+
+# 5. Scan the qr code using a EXPO GO app mobile.
 
 In the output, you'll find options to open the app in a
 
