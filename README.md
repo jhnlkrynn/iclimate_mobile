@@ -4,17 +4,21 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Get started
 
-1. Install dependencies
+# 1. Install Expo CLI globally (only once)
 
-   ```bash
-   npm install
-   ```
+npm install -g expo-cli
 
-2. Start the app
+# 2. Create a new Expo project (skip if already cloned)
 
-   ```bash
-   npx expo start
-   ```
+npx create-expo-app project-name
+
+# 3. Go to your project folder
+
+cd project-name
+
+# 4. Start the app (clear cache to avoid errors)
+
+npx expo start -c
 
 In the output, you'll find options to open the app in a
 
