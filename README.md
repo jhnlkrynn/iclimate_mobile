@@ -40,6 +40,8 @@ cd project-name
 
 npx expo start -c
 
+# 5. Scan the qr code using a EXPO GO app mobile.
+
 In the output, you'll find options to open the app in a
 
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
