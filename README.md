@@ -4,6 +4,8 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Get started
 
+Repository managed by: John Luke D. Reynon
+
 1. Install dependencies
 
    ```bash
