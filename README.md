@@ -21,6 +21,7 @@ The homepage layout has been improved to provide a cleaner and more user-friendl
 
 ## Get started
 
+Login Validation managed by: Kaye Cee Cagula
 Repository managed by: John Luke D. Reynon BSIT BA - 3303
 
 1. Install dependencies
