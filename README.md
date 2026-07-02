@@ -4,7 +4,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Get started
 
-Repository managed by: John Luke D. Reynon
+Repository managed by: John Luke D. Reynon BSIT BA - 3303
 
 1. Install dependencies
 
