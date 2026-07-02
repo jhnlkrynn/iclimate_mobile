@@ -4,6 +4,8 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Get started
 
+Login Validation managed by: Kaye Cee Cagula
+
 1. Install dependencies
 
    ```bash
